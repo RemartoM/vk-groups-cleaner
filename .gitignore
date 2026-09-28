@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Редакторы
+.vscode/
+.idea/
+
+# Личные данные — сюда попадают реальные ID групп
+*.csv
+!example.csv
+
+# Node (на случай, если кто-то добавит зависимости)
+node_modules/
